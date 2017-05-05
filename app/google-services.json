@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "997637811262",
+    "project_id": "beethedj-9b8a3"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997637811262:android:04badeb99567f6a3",
+        "android_client_info": {
+          "package_name": "com.beethedj.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997637811262-4lvm8crsgnlcs279nntdm3srstm270a4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beethedj.app",
+            "certificate_hash": "124fb28b4060609d4bff1473962ffb5323bd6f4f"
+          }
+        },
+        {
+          "client_id": "997637811262-qsmhkunvnpvuk5c5cbg8uam9ig0h8hlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFFghvZBmHP1kcj9VuTAKBtkHb5cdYnsg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BeeTheDJ</string>
+
+    <!-- Facebook -->
+    <string name="facebook_app_id">1856676697943080</string>
+
+    <!-- Login activity -->
+    <string name="text_login_later">Registrarme más tarde</string>
+    <string name="title_login">Regístrate</string>
+
+    <!-- FindDisco activity -->
+    <string name="login_disco">ENTRAR</string>
+    <string name="hint_auto_text">Nombre discoteca&#8230;</string>
+    <string name="title_find_disco">Buscar Discoteca</string>
+
+    <!-- Address disco's -->
+    <string name="merlin">Carrer d\'Àvila, 142, 08018 Barcelona</string>
+    <string name="pacha">Passeig Marítim Barceloneta, 38, 08003 Barcelona</string>
+    <string name="otto">Carrer de Lincoln, 15, 08006 Barcelona</string>
+    <string name="institut">Carrer del Dr. Trueta, 206, 08005 Barcelona</string>
+    <string name="boveda">Calle Roc Boronat, 33, 08005 Barcelona</string>
+    <string name="title_activity_selected_disco">SelectedDisco</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+</resources>

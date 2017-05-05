@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlos\.android\build-cache\2ec938aee358236f0368cc3f15fa80e58ef78fed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\Carlos\Documents\Android\BeeTheDJ\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fcdcd2160ba34bf31495b3fd8c18918b3ca605f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlos\.android\build-cache\037dd1305fd86b6f2e662b79515d0b5af49b07c8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d94c39080a309d1887f50ef68cc96dfe4bc9d01">
+        <dex dex="C:\Users\Carlos\Documents\Android\BeeTheDJ\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_701e9d6d4b0a96132313d9097a510b44335ad27f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlos\.android\build-cache\42f70556e20bd273758db992b3a9f589d64e6506\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="C:\Users\Carlos\Documents\Android\BeeTheDJ\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba487b70c92d8c72f6f4ab8d81c5448f4c048af7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlos\Documents\Android\BeeTheDJ\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1edc0bc049d3e56266a3cae0d805d54b7efb9d5">
+        <dex dex="C:\Users\Carlos\Documents\Android\BeeTheDJ\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c0dd9b59292097cba077d19b985eebff854be54b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlos\.android\build-cache\30375e01057f0102d08bea6988a657e11a0f5511\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\Carlos\Documents\Android\BeeTheDJ\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a482071551f740268d3375378bca80519392a803\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlos\.android\build-cache\a3d0439af23830281360b1c5a7d2acc908de1e58\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\Carlos\Documents\Android\BeeTheDJ\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d92b747f30ff00d390a7a340e08904c25d5bca0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlos\.android\build-cache\e10d7a925ec29d0ce9b89c86b0969ab884dbb39d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="C:\Users\Carlos\Documents\Android\BeeTheDJ\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_669ab966a5bdaf4ce35cd57881117af63f09113d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlos\.android\build-cache\66e6ecc3421d5473a54d507ce9e098a1ce61bf46\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="C:\Users\Carlos\Documents\Android\BeeTheDJ\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4e56e1ab932d7b760f046ef6953e0fdfcc7b40db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlos\.android\build-cache\fd01bd482867bae990b54232e081aff0fc804ed7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="C:\Users\Carlos\Documents\Android\BeeTheDJ\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc5e2a3b751a198cb9c345dbf1903af5eb9bf633\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlos\Documents\Android\BeeTheDJ\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Carlos\Documents\Android\BeeTheDJ\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9b3050140478c851f84bc55f6b30a8cb8879b4a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlos\.android\build-cache\451cfa51f46fd551afce8cc91d740172293d8434\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="C:\Users\Carlos\Documents\Android\BeeTheDJ\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef8c7e232245d34671983418ef93e787abf98d65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlos\.android\build-cache\0d52abb915713e6893d84b7bccfd4d40a922a828\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Carlos\Documents\Android\BeeTheDJ\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e0ed1c3d2190b7d67dfae583f596c46c3f76ce0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlos\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Carlos\Documents\Android\BeeTheDJ\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_edc86f160ac7cc093640e53c93cf060b9b8b8c8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlos\.android\build-cache\a8f9874dcd008cc7cb07aca4928fa9c5a17ae099\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="C:\Users\Carlos\Documents\Android\BeeTheDJ\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f7949999569cec73275c71e9880969af97222612\classes.dex" />
+    </item>
+
+</items>
