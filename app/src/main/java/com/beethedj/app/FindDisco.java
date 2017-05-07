@@ -78,7 +78,7 @@ public class FindDisco extends AppCompatActivity {
             public void onClick(View v) {
 
                 if (!name[0].equalsIgnoreCase("")) {
-                    Intent i = new Intent(FindDisco.this , SelectedDisco.class);
+                    Intent i = new Intent(FindDisco.this , MusicActivity.class);
                     i.putExtra("name" , name[0]);
                     startActivity(i);
                 }

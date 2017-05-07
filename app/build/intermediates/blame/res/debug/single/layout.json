@@ -4,6 +4,10 @@
         "source": "C:\\Users\\Carlos\\.android\\build-cache\\9be66a0b06c53824fb74bc3329940e721f8629c7\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
+        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
         "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
         "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\layout\\notification_template_part_time.xml"
     },
@@ -200,6 +204,10 @@
         "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
+        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_music.xml",
+        "source": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\src\\main\\res\\layout\\fragment_music.xml"
+    },
+    {
         "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
         "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\layout\\notification_template_media.xml"
     },
@@ -210,6 +218,10 @@
     {
         "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
         "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_info.xml",
+        "source": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\src\\main\\res\\layout\\fragment_info.xml"
     },
     {
         "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
@@ -254,6 +266,10 @@
     {
         "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
         "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_music.xml",
+        "source": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\src\\main\\res\\layout\\activity_music.xml"
     },
     {
         "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",

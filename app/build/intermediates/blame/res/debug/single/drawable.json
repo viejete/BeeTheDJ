@@ -40,6 +40,10 @@
         "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
+        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notifications_black_24dp.xml",
+        "source": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
         "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
         "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
@@ -62,6 +66,10 @@
     {
         "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
         "source": "C:\\Users\\Carlos\\.android\\build-cache\\037dd1305fd86b6f2e662b79515d0b5af49b07c8\\output\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_home_black_24dp.xml",
+        "source": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
     },
     {
         "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
@@ -234,6 +242,10 @@
     {
         "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
         "source": "C:\\Users\\Carlos\\.android\\build-cache\\037dd1305fd86b6f2e662b79515d0b5af49b07c8\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_dashboard_black_24dp.xml",
+        "source": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
     },
     {
         "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",

@@ -10,6 +10,7 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        vectorDrawables.useSupportLibrary = true
     }
     buildTypes {
         release {
@@ -30,9 +31,16 @@ dependencies {
     compile 'com.squareup.picasso:picasso:2.5.2'
     compile 'com.google.android.gms:play-services-auth:10.2.1'
     compile 'com.android.support:design:25.2.0'
+    compile 'com.android.support:support-vector-drawable:25.2.0'
+    compile 'com.android.support:support-v4:25.2.0'
     testCompile 'junit:junit:4.12'
 }
 
 apply plugin: 'com.google.gms.google-services'
+
+
+
+
+
 
 

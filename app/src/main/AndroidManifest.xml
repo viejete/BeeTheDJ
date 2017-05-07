@@ -26,9 +26,8 @@
         <activity android:name=".Login" />
         <activity android:name=".FindDisco" />
         <activity
-            android:name=".SelectedDisco"
-            android:label="@string/title_activity_selected_disco"
-            android:theme="@style/AppTheme"></activity>
+            android:name=".MusicActivity"
+            android:label="@string/title_activity_music"></activity>
     </application>
 
 </manifest>

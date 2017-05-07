@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Carlos\Documents\Android\BeeTheDJ\app\src\main\AndroidManifest.xml:2:1-34:12
+ADDED from C:\Users\Carlos\Documents\Android\BeeTheDJ\app\src\main\AndroidManifest.xml:2:1-33:12
 	package
 		ADDED from C:\Users\Carlos\Documents\Android\BeeTheDJ\app\src\main\AndroidManifest.xml:3:5-31
 		INJECTED from C:\Users\Carlos\Documents\Android\BeeTheDJ\app\src\main\AndroidManifest.xml
@@ -21,7 +21,7 @@ MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Carlos\.android\b
 	android:name
 		ADDED from C:\Users\Carlos\Documents\Android\BeeTheDJ\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\Carlos\Documents\Android\BeeTheDJ\app\src\main\AndroidManifest.xml:7:5-32:19
+ADDED from C:\Users\Carlos\Documents\Android\BeeTheDJ\app\src\main\AndroidManifest.xml:7:5-31:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Carlos\.android\build-cache\0d52abb915713e6893d84b7bccfd4d40a922a828\output\AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.android:facebook-android-sdk:4.22.0] C:\Users\Carlos\.android\build-cache\037dd1305fd86b6f2e662b79515d0b5af49b07c8\output\AndroidManifest.xml:28:5-48:19
 MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Carlos\.android\build-cache\0f6059ca0560da49899e7060fe929d3e620b5b63\output\AndroidManifest.xml:22:5-20
@@ -31,8 +31,8 @@ MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Carlos\.
 MERGED from [com.android.support:design:25.2.0] C:\Users\Carlos\.android\build-cache\9be66a0b06c53824fb74bc3329940e721f8629c7\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Carlos\.android\build-cache\f2232d2c5f337a720c27b2328acdd45d7a23f311\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Carlos\.android\build-cache\84c4cec6e2cd48c6b2a2b1710ddd6d082ff27a05\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Carlos\.android\build-cache\fc0c49ff6ed405c2fcc9677fcd01fc682f0af468\output\AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:transition:25.2.0] C:\Users\Carlos\.android\build-cache\8e96b04f1a23b2214647f73462b073250b0172a7\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Carlos\.android\build-cache\fc0c49ff6ed405c2fcc9677fcd01fc682f0af468\output\AndroidManifest.xml:23:5-20
 MERGED from [com.google.firebase:firebase-core:10.2.1] C:\Users\Carlos\.android\build-cache\0516c7be8439e9a9f611cf02bc2afee76adba41b\output\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Carlos\.android\build-cache\42f70556e20bd273758db992b3a9f589d64e6506\output\AndroidManifest.xml:24:5-33:19
 MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\Carlos\.android\build-cache\451cfa51f46fd551afce8cc91d740172293d8434\output\AndroidManifest.xml:24:5-28:19
@@ -86,12 +86,10 @@ activity#com.beethedj.app.FindDisco
 ADDED from C:\Users\Carlos\Documents\Android\BeeTheDJ\app\src\main\AndroidManifest.xml:27:9-47
 	android:name
 		ADDED from C:\Users\Carlos\Documents\Android\BeeTheDJ\app\src\main\AndroidManifest.xml:27:19-44
-activity#com.beethedj.app.SelectedDisco
-ADDED from C:\Users\Carlos\Documents\Android\BeeTheDJ\app\src\main\AndroidManifest.xml:28:9-31:56
+activity#com.beethedj.app.MusicActivity
+ADDED from C:\Users\Carlos\Documents\Android\BeeTheDJ\app\src\main\AndroidManifest.xml:28:9-30:69
 	android:label
-		ADDED from C:\Users\Carlos\Documents\Android\BeeTheDJ\app\src\main\AndroidManifest.xml:30:13-66
-	android:theme
-		ADDED from C:\Users\Carlos\Documents\Android\BeeTheDJ\app\src\main\AndroidManifest.xml:31:13-44
+		ADDED from C:\Users\Carlos\Documents\Android\BeeTheDJ\app\src\main\AndroidManifest.xml:30:13-57
 	android:name
 		ADDED from C:\Users\Carlos\Documents\Android\BeeTheDJ\app\src\main\AndroidManifest.xml:29:13-42
 uses-sdk
@@ -106,9 +104,9 @@ MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Carlos\.
 MERGED from [com.android.support:design:25.2.0] C:\Users\Carlos\.android\build-cache\9be66a0b06c53824fb74bc3329940e721f8629c7\output\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Carlos\.android\build-cache\f2232d2c5f337a720c27b2328acdd45d7a23f311\output\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Carlos\.android\build-cache\84c4cec6e2cd48c6b2a2b1710ddd6d082ff27a05\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Carlos\.android\build-cache\fc0c49ff6ed405c2fcc9677fcd01fc682f0af468\output\AndroidManifest.xml:21:5-43
 MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\Carlos\.android\build-cache\1da2682820d765925e978c1db3aa6e4b6dadd3f4\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:transition:25.2.0] C:\Users\Carlos\.android\build-cache\8e96b04f1a23b2214647f73462b073250b0172a7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Carlos\.android\build-cache\fc0c49ff6ed405c2fcc9677fcd01fc682f0af468\output\AndroidManifest.xml:21:5-43
 MERGED from [com.google.firebase:firebase-core:10.2.1] C:\Users\Carlos\.android\build-cache\0516c7be8439e9a9f611cf02bc2afee76adba41b\output\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Carlos\.android\build-cache\42f70556e20bd273758db992b3a9f589d64e6506\output\AndroidManifest.xml:17:5-43
 MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\Carlos\.android\build-cache\451cfa51f46fd551afce8cc91d740172293d8434\output\AndroidManifest.xml:17:5-43
