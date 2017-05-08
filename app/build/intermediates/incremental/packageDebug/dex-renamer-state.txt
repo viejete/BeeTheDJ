@@ -1,7 +1,0 @@
-#Thu May 04 17:19:48 CEST 2017
-base.0=C\:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c0dd9b59292097cba077d19b985eebff854be54b
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9b3050140478c851f84bc55f6b30a8cb8879b4a3\\classes.dex
-base.1=C\:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9b3050140478c851f84bc55f6b30a8cb8879b4a3
-file.0=C\:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c0dd9b59292097cba077d19b985eebff854be54b\\classes.dex

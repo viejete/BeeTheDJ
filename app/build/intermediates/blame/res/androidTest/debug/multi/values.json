@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "C:\\Users\\Carlos\\.android\\build-cache\\44d34eb6a731d8d74b06ae075dbef440ebc749f2\\output\\res\\values\\values.xml",
+                    "file": "C:\\Users\\Administrador\\.android\\build-cache\\2835b3bee9d7aa5db14adc6962667a6306a29674\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

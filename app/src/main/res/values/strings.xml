@@ -4,6 +4,9 @@
     <!-- Facebook -->
     <string name="facebook_app_id">1856676697943080</string>
 
+    <!-- Google -->
+    <string name="google_play_services_api_key">AIzaSyCx0lU786OCNzUDPDtMRAyVt2COrckJRFU</string>
+
     <!-- Login activity -->
     <string name="text_login_later">Registrarme más tarde</string>
     <string name="title_login">Regístrate</string>
@@ -28,5 +31,8 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Content descriptions -->
+    <string name="avatar_image_desc">Avatar image of the user</string>
 
 </resources>

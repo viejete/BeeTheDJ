@@ -1,118 +1,110 @@
 [
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\color\\abc_tint_spinner.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\f1f292b80196d3704ec0c8e587a1ba932985a70c\\output\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\9be66a0b06c53824fb74bc3329940e721f8629c7\\output\\res\\color\\design_error.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\f1f292b80196d3704ec0c8e587a1ba932985a70c\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\30375e01057f0102d08bea6988a657e11a0f5511\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\f1f292b80196d3704ec0c8e587a1ba932985a70c\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\9be66a0b06c53824fb74bc3329940e721f8629c7\\output\\res\\color\\design_tint_password_toggle.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\f1f292b80196d3704ec0c8e587a1ba932985a70c\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\color\\abc_tint_btn_checkable.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\f1f292b80196d3704ec0c8e587a1ba932985a70c\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\color\\abc_search_url_text.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\dffb1c15bacce3ea8409c823ca0f4df8e9f33679\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\color\\abc_tint_seek_thumb.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\f1f292b80196d3704ec0c8e587a1ba932985a70c\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\f1f292b80196d3704ec0c8e587a1ba932985a70c\\output\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_button_text_color.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\037dd1305fd86b6f2e662b79515d0b5af49b07c8\\output\\res\\color\\com_facebook_button_text_color.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\dffb1c15bacce3ea8409c823ca0f4df8e9f33679\\output\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\color\\switch_thumb_material_dark.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\f1f292b80196d3704ec0c8e587a1ba932985a70c\\output\\res\\color\\abc_tint_spinner.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\color\\abc_btn_colored_text_material.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\f1f292b80196d3704ec0c8e587a1ba932985a70c\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\f1f292b80196d3704ec0c8e587a1ba932985a70c\\output\\res\\color\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\f1f292b80196d3704ec0c8e587a1ba932985a70c\\output\\res\\color\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\color\\abc_tint_switch_thumb.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\a0c53549eae1a8a698a80bb838488b3559285f1b\\output\\res\\color\\design_tint_password_toggle.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_send_button_text_color.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\037dd1305fd86b6f2e662b79515d0b5af49b07c8\\output\\res\\color\\com_facebook_send_button_text_color.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\f1f292b80196d3704ec0c8e587a1ba932985a70c\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\a6767bf4d4e6012e965b4982cdbdbf35472f9b45\\output\\res\\color\\common_plus_signin_btn_text_light.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\f1f292b80196d3704ec0c8e587a1ba932985a70c\\output\\res\\color\\abc_tint_edittext.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\f1f292b80196d3704ec0c8e587a1ba932985a70c\\output\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\dffb1c15bacce3ea8409c823ca0f4df8e9f33679\\output\\res\\color\\common_google_signin_btn_tint.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\color\\abc_tint_default.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\f1f292b80196d3704ec0c8e587a1ba932985a70c\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\f1f292b80196d3704ec0c8e587a1ba932985a70c\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\a6767bf4d4e6012e965b4982cdbdbf35472f9b45\\output\\res\\color\\common_plus_signin_btn_text_dark.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_button_text_color.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\1a4db3370ca7e15da4083fd8807c718bd646d74e\\output\\res\\color\\com_facebook_button_text_color.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\f1f292b80196d3704ec0c8e587a1ba932985a70c\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\30375e01057f0102d08bea6988a657e11a0f5511\\output\\res\\color\\common_google_signin_btn_tint.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\f1f292b80196d3704ec0c8e587a1ba932985a70c\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\a0c53549eae1a8a698a80bb838488b3559285f1b\\output\\res\\color\\design_error.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\color\\abc_secondary_text_material_light.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\f1f292b80196d3704ec0c8e587a1ba932985a70c\\output\\res\\color\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\color\\abc_tint_switch_track.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\f1f292b80196d3704ec0c8e587a1ba932985a70c\\output\\res\\color\\abc_tint_default.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\color\\switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\f2232d2c5f337a720c27b2328acdd45d7a23f311\\output\\res\\color\\abc_tint_edittext.xml"
-    },
-    {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\Carlos\\.android\\build-cache\\30375e01057f0102d08bea6988a657e11a0f5511\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_send_button_text_color.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\1a4db3370ca7e15da4083fd8807c718bd646d74e\\output\\res\\color\\com_facebook_send_button_text_color.xml"
     }
 ]
