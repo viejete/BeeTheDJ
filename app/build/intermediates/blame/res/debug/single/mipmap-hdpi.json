@@ -8,8 +8,24 @@
         "source": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon_app.png",
+        "source": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\src\\main\\res\\mipmap-hdpi\\icon_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\no_avatar.png",
+        "source": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\src\\main\\res\\mipmap-hdpi\\no_avatar.png"
+    },
+    {
         "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\no_avatar.png",
         "source": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\src\\main\\res\\mipmap-hdpi\\no_avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",

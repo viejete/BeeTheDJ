@@ -29,10 +29,14 @@
     <string name="title_dashboard">MUSICA</string>
     <string name="title_notifications">INFO</string>
 
+    <!-- Search song activity -->
+    <string name="hint_text_search_song">Buscar cancion&#8230;</string>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
     <!-- Content descriptions -->
     <string name="avatar_image_desc">Avatar image of the user</string>
+    <string name="search_button_description">Image Button for search a song in the api of spotify</string>
 
 </resources>

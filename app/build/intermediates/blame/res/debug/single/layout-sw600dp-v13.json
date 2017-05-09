@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\a0c53549eae1a8a698a80bb838488b3559285f1b\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
         "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
         "source": "C:\\Users\\Carlos\\.android\\build-cache\\0a4ad65c11d52c6a8d119de9ce21ae948511be40\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }

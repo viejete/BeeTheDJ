@@ -1,5 +1,13 @@
 [
     {
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\a0c53549eae1a8a698a80bb838488b3559285f1b\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\StudioProjects\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Administrador\\.android\\build-cache\\a0c53549eae1a8a698a80bb838488b3559285f1b\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
         "merged": "C:\\Users\\Carlos\\Documents\\Android\\BeeTheDJ\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
         "source": "C:\\Users\\Carlos\\.android\\build-cache\\0a4ad65c11d52c6a8d119de9ce21ae948511be40\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },

@@ -57,6 +57,7 @@
         <activity
             android:name="com.beethedj.app.MusicActivity"
             android:label="@string/title_activity_music" />
+        <activity android:name="com.beethedj.app.SearchSongActivity" />
         <activity
             android:name="com.facebook.FacebookActivity"
             android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
