@@ -10,15 +10,14 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
 
-    <meta-data
-        android:name="android.support.VERSION"
-        android:value="25.3.1" /> <!-- Include required permissions for Google Maps API to run. -->
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-
     <uses-feature
         android:glEsVersion="0x00020000"
         android:required="true" />
 
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" /> <!-- Include required permissions for Google Maps API to run. -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 
@@ -46,6 +45,12 @@
         <meta-data
             android:name="com.facebook.sdk.ApplicationId"
             android:value="@string/facebook_app_id" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_play_services_api_key" />
 
         <activity android:name="com.beethedj.app.Login" />
         <activity android:name="com.beethedj.app.FindDisco" />
@@ -143,10 +148,6 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
             android:authorities="com.beethedj.app.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
-
-        <meta-data
-            android:name="com.google.android.gms.version"
-            android:value="@integer/google_play_services_version" />
     </application>
 
 </manifest>
